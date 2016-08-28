@@ -39,20 +39,5 @@ SAE图床
 		<p>
 			配置完成后，可以删除help文件夹以节省代码空间
 		</p>
-		<p>
-			&nbsp;
-		</p>
-		<p>
-			附:详细使用教程:<a href="https://alleysakura.com/index.php/Tech/16.html">https://alleysakura.com/index.php/Tech/16.html</a>
-		</p>
-		<p>
-			&nbsp;
-		</p>
-		<p>
-			2015/08/03
-		</p>
-		<p>
-			<span style="color:#333333;font-family:arial;font-size:13px;line-height:20.020000457763672px;background-color:#FFFFFF;">Copyright 2015&nbsp;</span><a href="https://alleysakura.com/">蔓舞寻樱</a><span style="line-height:1.5;"></span>
-		</p>
 	</p>
 </p>
